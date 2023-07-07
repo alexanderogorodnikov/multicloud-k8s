@@ -1,2 +1,7 @@
-# multicloud-k8s
-Multi-cloud k8s cluster running Apps in service mesh
+# Introduction
+
+## Multi-cloud k8s infrastructure
+
+## This is my first try to deploy such solution
+
+## Will add some docs soon
